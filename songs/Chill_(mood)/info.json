@@ -1,0 +1,8 @@
+{
+  "title": "Chill Mood",
+  "description": "Relax and unwind with calm vibes",
+  "songs": [
+    { "name": "Calm Breeze.mp3" },
+    { "name": "Late Night Walk.mp3" }
+  ]
+}
